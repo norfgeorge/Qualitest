@@ -1,0 +1,2 @@
+Install Maven, run "Products Test".
+The test does it all in one, no time do it more efficiently, although a lot can improve. I am more on the backend/API testing so I didn't know how to verify that I got 3 items left in the cart.
